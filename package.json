@@ -1,0 +1,16 @@
+{
+  "name": "typewriter-animation-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.4.8",
+    "vite-plugin-checker": "^0.8.0"
+  }
+}
