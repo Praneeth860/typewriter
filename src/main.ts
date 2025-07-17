@@ -14,9 +14,9 @@ typewriter
   .deleteAll(10)
   .typeString(" why is this so easy?")
   .pauseFor(1000)
-  .typeString("\n\ndont compare yourself with others")
+  .typeString("\n\nit was a nice experience though")
   .pauseFor(1000)
-  .typeString("\n\nfinally i can do this")
+  .typeString("\n\nfinally i did this man")
   .pauseFor(1000)
   .deleteAll(10)
   .start();
